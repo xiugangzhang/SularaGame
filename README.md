@@ -1,4 +1,6 @@
 # SularaGame
+## 试玩链接：http://htmlpreview.github.io/?https://github.com/xiugangzhang/SularaGame/blob/master/SularaGame.html
+
 ![image](https://github.com/xiugangzhang/SularaGame/blob/master/preview.jpg)
 <br>     
 <br>     
